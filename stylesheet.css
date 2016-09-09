@@ -192,3 +192,9 @@ body, html {
 #finnembed {
 	z-index:10;
 }
+.disableadblock {
+	z-index:-1;
+	position:fixed;
+	left: 50%;
+	top: 50%;
+}
